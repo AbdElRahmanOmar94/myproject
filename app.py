@@ -9,4 +9,5 @@ class Student:
 
 
 s1=Student("abd",29,["math"])
+s1.age=24
 print(s1.age)
